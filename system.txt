@@ -21,8 +21,13 @@ Input Methods: Controller Tracking, Hand Tracking.
 Game Guide:
 —
 *Menu // identical on both Hand and Controller Tracking (works Singleplayer and Multiplayer)
+Show Location Preview: Button to Show your Location Address in the Sky // Small Odds it Can be behind the Player
 VR Background Toggle Option to see your Environment
 Music Toggle On/Off
+Save Location: Button to Write the Current Coordinates in Local App Storage // Slot 1
+Load Location: Button to Apply and Teleport to the Slot 1 Coordinates from Local App Storage // Slot 1
+Save Location: Button to Write the Current Coordinates in Local App Storage // Slot 2
+Load Location: Button to Apply and Teleport to the Slot 2 Coordinates from Local App Storage // Slot 2
 Speed Value: + and -
 Resolution Value: + and -
 Mesh Quality Range: + and - // the higher the value, the slower Performance but Higher Quality Terrain in the Distance.
