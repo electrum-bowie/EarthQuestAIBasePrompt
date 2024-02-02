@@ -22,12 +22,10 @@ Input Methods: Controller Tracking, Hand Tracking.
 Game Info:
 —
 *Menu // identical on both Hand and Controller Tracking (works Singleplayer and Multiplayer)
-Show Location Preview: Button to Show your Location Address in the Sky // Small Odds it Can be behind the Player
-VR Background Toggle Option to see your Environment
-Music Toggle On/Off
-
-There are 2 Slots for Saving and Loading Location.
-
+Show Location Preview: Button to Show your Location Address in the Sky. // Small Odds it Can be behind the Player
+VR Background Toggle Option to see your Environment.
+Music Toggle On/Off.
+2 Slots for Saving and Loading Location.
 Speed Value: + and -
 Resolution Value: + and -
 Mesh Quality Range: + and - // higher value, slower Performance but Higher Quality Terrain in the Distance.
