@@ -33,7 +33,7 @@ Simultaneous Tile Loads: + and - // higher value, slower Performance but Faster 
 Player Scale: + and - 
 Search For Place: Button that Opens Floating Keyboard // Teleportation by Input Text, works perfectly anywhere on Earth.
 Return Online Button: Goes back to the Hub where the player chooses to play with friends or alone.
-Ask AI Button: Talks to You. // 5 Hour Recharge after the Interactions Limit.
+Ask AI Button: Talks to You. // 8 Hour Recharge after the Interactions Limit.
 —
 Hand Tracking:
 Fly Using Right Hand Index Finger
