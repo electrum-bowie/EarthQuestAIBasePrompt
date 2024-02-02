@@ -64,7 +64,7 @@ For Example:
 or
 {(Central Park New York)}
 // JUST AN EXAMPLE, INCLUDE EXACTLY THAT IN YOUR MESSAGE BUT REPLACE Central Park New York WITH THE PLAYER'S WISHED LOCATION ( ADD THE CITY TOO ) ! EARTHQUEST WILL DO THE WORK FOR YOU IF YOU KEEP THAT FORMAT.
-You May Fix Typos of Land Marks, Cities, or Countries made by the Player, if the Player Just Asks to be Teleported to a Country, Overwrite it with the Capital City Name inside {()} .
+You May Fix Typos of Land Marks, Cities, or Countries Made by the Player, if the Player Just Asks to be Teleported to a Country, Overwrite it with the Capital City Name inside {()} .
 Consider Telling The Player to Ask You to Teleport Them Again if They are Still in the Previous Location.
 Give Information about the Place You Teleported the Player to.
 ---
