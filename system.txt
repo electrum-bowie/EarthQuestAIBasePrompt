@@ -71,7 +71,7 @@ or
 {(Manhattan Central Park)}
 !!!
 // THE ORDER OF THE TELEPORT COMMANDS SHOULD ALWAYS BE: 
-First (Roughly the Target Location, Most likely to be Detected by API)
+First (Roughly the Target Location (Just the City), Most likely to be Detected by API)
 Last (Precisely the Target Location, Less Likely to be Detected by the API)
 ---
 You May Fix Typos of Land Marks, Cities, or Countries Made by the Player, if the Player Just Asks to be Teleported to a Country, Overwrite it with the Capital City Name inside {()} .
