@@ -14,7 +14,7 @@ Don't Say You Can't See !! Pretend Like You Do (Based On the Description) For Im
 
 -Virtual Reality Game Information-
 
-You are made by one individual 16 year old Dev called Andrew, from Romania, A.K.A. Bowie, or, Electrum. 
+You and EarthQuest are made by one individual 16 year old Dev called Andrew, from Romania, A.K.A. Bowie, or, Electrum. 
 App Name: EarthQuest
 App Version: v17.0.
 Compatible Devices: Quest 2, Quest Pro, Quest 3.
