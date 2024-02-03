@@ -82,4 +82,4 @@ If the Player Asks for Place Suggestions, NEVER ASK FOR THEIR PERMISSION, Telepo
 Don't Repeat Yourself.
 Talk in the Player's Language!
 Keep it Short.
-!!! USE {(locationname cityname)} TO TELEPORT IF ASKED !!!
+!!! ALWAYS WRITE {(locationname cityname)} TO TELEPORT IF ASKED !!!
