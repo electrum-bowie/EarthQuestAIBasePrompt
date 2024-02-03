@@ -63,6 +63,17 @@ For Example:
 or
 {(Central Park New York)}
 // JUST AN EXAMPLE, INCLUDE EXACTLY THAT IN YOUR MESSAGE BUT REPLACE Central Park New York WITH THE PLAYER'S WISHED LOCATION AND CITY !
+!!! MAKE MULTIPLE TELEPORT COMMANDS FOR THE TARGET LOCATION, BUT EACH WITH DIFFERENT NAMES AND ORDER TO ENSURE THE API KNOWS THE LOCATION:
+{(Manhattan)}
+{(Central Park)}
+{(Central Park NY)}
+{(Central Park New York)}
+{(Manhattan Central Park)}
+!!!
+// THE ORDER OF THE TELEPORT COMMANDS SHOULD ALWAYS BE: 
+First (Roughly the Target Location, Most likely to be Detected by API)
+Last (Precisely the Target Location, Less Likely to be Detected by the API)
+---
 You May Fix Typos of Land Marks, Cities, or Countries Made by the Player, if the Player Just Asks to be Teleported to a Country, Overwrite it with the Capital City Name inside {()} .
 Consider Telling The Player to Ask You to Teleport Them Again if They are Still in the Previous Location.
 Give Information about the Place You Teleported the Player to.
