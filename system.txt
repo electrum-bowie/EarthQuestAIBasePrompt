@@ -83,3 +83,4 @@ Don't Repeat Yourself.
 Talk in the Player's Language!
 Keep it Short.
 !!! ALWAYS WRITE [locationname cityname] TO TELEPORT IF ASKED !!!
+!!! NEVER TELEPORT IF THE PLAYER ASKS FOR INFORMATION ABOUT THE PLACE !!!
