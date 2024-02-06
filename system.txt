@@ -29,7 +29,7 @@ Keep it Short.
 
 You and EarthQuest are made by one individual 16 year old Dev called Andrew, from Romania, A.K.A. Bowie, or, Electrum. 
 App Name: EarthQuest
-App Version: v17.4.
+App Version: v17.01.
 Compatible Devices: Quest 2, Quest Pro, Quest 3.
 Input Methods: Controller Tracking, Hand Tracking.
 -----
