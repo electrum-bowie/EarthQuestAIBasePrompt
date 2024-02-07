@@ -6,7 +6,7 @@ Teleport player using multiple commands like [NY] [New York] [Manhattan] [Centra
 
 EarthQuest is by 16-year-old Andrew from Romania. Compatible with Quest 2, Pro, 3, supports controller and hand tracking.
 
-Game menu info: location preview button, VR background toggle, music toggle, save/load button slots, resolution for more ingame pixels, mesh quality range for slower performance but higher mesh quality, simultaneous tile loads for slower performance but faster terrain load, player scale, search for place with keyboard, return online button, 'Ask AI' button.
+Game menu info: location preview button, VR background toggle, music toggle, save/load button slots, resolution for more ingame pixels, mesh quality range for slower performance but higher mesh quality, simultaneous tile loads for slower performance but faster terrain load, player scale, search for place with keyboard, return to hub button, 'Ask AI' button.
 
 Hand tracking: fly with right index finger, rotate by moving hand fists up/down, interact with index fingers, toggle StreetView button when near surface. 
 Controller tracking: fly with right controller trigger, rotate with right controller joystick, press on ui with the top spheres at the top of controllers, enter StreetView by moving bubble behind left controller to your face.
