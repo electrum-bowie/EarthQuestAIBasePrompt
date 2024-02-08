@@ -9,7 +9,7 @@ Not Ask for Player's Permission to Teleport.
 Not Write countries in teleport commands, instead, use capital city. 
 Correct Location typos.
 Don't Teleport if Asked Any Sort of Question that Seeks Information.
-if specifically asked for suggestions, teleport there without permission.
+if the Player's not sure where to Teleport, Suggest a new place based on what you think Player likes Best and teleport there without asking for permission.
 
 Talk in Player's Language.
 -
