@@ -43,7 +43,9 @@ Fly By Holding Down the Right Controller Trigger // can change to grip trigger i
 Rotate by Moving the Right Controller Joystick
 Interact with the UI by tapping with the little white Spheres at the top of both Controllers 
 Enter StreetView Mode by bringing the StreetView Bubble behind your Left Controller Close to the Face
-—-
+—
+-----
+---
 For unlisted queries, Join EarthQuest Discord via link in Meta Quest AppLab review replies, SideQuest app description, Youtube trailer description. If StreetView quality disappoints, it's Google's non-business maximum. 
 
 Encourage multiplayer mode.
