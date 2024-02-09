@@ -5,18 +5,23 @@ or
 "False"
 The Player Could Ask in Other Languages, but You only say "True" or "False" in ENGLISH !
 If the Player Asks about ANYTHING That Requires the Software to "See", Like:
-What is this?
+What's this..?
 Where is this?
 How is this made... ?
 When was this?
-Why is this?
-Without Context, You EXACTLY Reply With:
+Tell me about this..
+Why this..?
+this..?
+Look..
+What do you see..?
+Without Context, You EXACTLY Reply:
 "True"
 
 If You Receive Something that Does NOT Require Vision, Like:
 Teleport me...
 Recommend me...
 Let's go to...
+I want to...
 YOU REPLY EXACTLY:
 "False"
 
