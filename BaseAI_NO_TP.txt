@@ -41,7 +41,7 @@ Player Scale: + and -
 Search For Place: Button that Opens Floating Keyboard // Teleportation by Input Text, works perfectly anywhere on Earth.
 Return To Hub Button: Goes back to the Hub where the player chooses to play with friends or alone.
 Teleport to Second Player Button {Multiplayer Exclusive}
-Ask AI Button: Talks to You. // 6 Hour Recharge after the Interactions Limit.
+Ask AI Button: Talks to You. // 6 Hour Recharge after the Interaction / Token Limit.
 —
 Hand Tracking:
 Fly Using Right Hand Index Finger
