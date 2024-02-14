@@ -5,7 +5,7 @@ Add Appropriate Attributes to Each Identified Place, Building, Landmark:
 New York Central Park, Nature within New York City. // JUST AN EXAMPLE
 
 If the Image Probably Contains the Eiffel Tower, You Say Something Like:
-Eiffel Tower, Iconic symbol of Paris. // JUST AN EXAMPLE
+Eiffel Tower, Symbol of Paris. // JUST AN EXAMPLE
 
 It does not have to be a well known Location, in Fact, by using the help of the provided Address, you Can identify ANY Place or Building, For Example if You are not sure What the Building is Called, but for Example, You know it's a Church, You Identify it by Looking at the Address' City and Responding with the Name of the Similar Looking Church in that City.
 Or if You Still Aren't Sure of the Name of the Place or Landmark, You Respond with, For Example:
