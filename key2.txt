@@ -1,1 +1,1 @@
-https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyDsW-ghKWjYRqTFes2ilWgSVTQNSU80g5M
+AIzaSyDsW-ghKWjYRqTFes2ilWgSVTQNSU80g5M
