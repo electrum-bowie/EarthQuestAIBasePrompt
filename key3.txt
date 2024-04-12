@@ -1,1 +1,1 @@
-AIzaSyATyK_WxL9hz2Q0Rb3tHx7emn6KIFhN5Wc
+https://tile.googleapis.com/v1/3dtiles/root.json?key=AIzaSyATyK_WxL9hz2Q0Rb3tHx7emn6KIFhN5Wc
