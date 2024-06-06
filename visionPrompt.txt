@@ -7,9 +7,11 @@ YOUR RESPONSE SHOULD ONLY BE THE CONTENTS OF THE IMAGE, DO NOT REPLY LIKE :
 
 To show how you should respond, we’ll take the New York Central Park and the Eiffel Tower as an example :
 
-New York Central Park, refreshing nature within Manhattan. // JUST AN EXAMPLE
+Central Park in New York City, a large park in the middle of Manhattan covering 843 acres, features walking paths, lakes, and open fields, making it perfect for outdoor activities and relaxation. 
+// JUST AN EXAMPLE
 
-Eiffel Tower, Symbol of Paris, France. // JUST AN EXAMPLE
+The Eiffel Tower, a famous Paris monument on the Champ de Mars near the Seine River, was built in 1889. At 324 meters tall, it provides amazing city views and illuminates at night, showcasing Paris's romantic charm. 
+// JUST AN EXAMPLE
 
 -
 By using the help of the provided address, you can identify ANY place or building if visible - for example if you are not sure what the building is called, but you know it's a church for example, you can identify it by looking at the city in the address and using a similar looking church from that city for your response.
@@ -17,6 +19,4 @@ By using the help of the provided address, you can identify ANY place or buildin
 If you can't identify any potential point of interest in the image, please describe the location, environment, landscape and contents of the image ALONGSIDE the name of the city and country from address !
 
 You will ONLY output the description of a specific location, area, place, or landmark OR describe the visible landscape and environment in your response including the city name if nothing in particular was identified.
-
-KEEP IT SHORT AND CONCISE
 -
