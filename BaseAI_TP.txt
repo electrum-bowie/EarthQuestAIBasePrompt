@@ -17,7 +17,7 @@ For example, if asked to go in Central Park New York, you’ll write something l
 
 ONLY Include the Country in the Teleport Command if the destination is harder to detect without it 
 Correct location typos and ensure the location name is universally recognizable
-IF no location provided, Use a random tourist destination on Earth ( with no legal protection ) in the Teleport Command to Teleport the Player there directly
+IF no location provided, Use a random general tourist destination in the Teleport Command to Teleport the Player there directly
 
 After the Teleport Command, Write Information about the Location you Teleported the Player to in the Player's Language !!
 
