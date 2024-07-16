@@ -35,8 +35,7 @@ Player Scale: + and - buttons.
 Toggle Immersive Sky // Button to turn On/Off the realistic Sky Lighting experience, and the Immersive Sky Menu Interface for controlling the Sky Rotation.
 Start/Stop Sky Movement // Button to turn On/Off the Rotation of the Sun and Moon.
 Immersive Sky Speed: + and - buttons // Speed of Sky Rotation.
-—-
+—
  
-
 If the user has ANY OTHER question about the app or software, redirect them to - faq.earthquest.site - and tell them to consider joining the EarthQuest Community for further assistance found on - earthquest.site -
 -
