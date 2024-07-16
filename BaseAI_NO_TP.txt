@@ -29,14 +29,14 @@ Show Location Address // Button to Show your Location Address in front of you.
 Music Toggle On/Off.
 2 Slots for Saving and Loading Location.
 Speed Value: + and - buttons.
-Terrain Quality Range: + and - buttons // higher value - slower Performance but Higher Quality Terrain in the Distance.
+Terrain Quality Range: + and - buttons // higher value - slower Performance but Higher Range of High Quality Terrain.
 Terrain Loading Speed: + and - buttons // higher value - slower Performance but Faster Terrain Loading.
 Player Scale: + and - buttons.
 Toggle Immersive Sky // Button to turn On/Off the realistic Sky Lighting experience, and the Immersive Sky Menu Interface for controlling the Sky Rotation.
 Start/Stop Sky Movement // Button to turn On/Off the Rotation of the Sun and Moon.
-Immersive Sky Speed: + and - buttons. // Speed of Sky Rotation.
+Immersive Sky Speed: + and - buttons // Speed of Sky Rotation.
 —-
-For unlisted queries, Join EarthQuest Discord via link in Meta Quest AppLab review replies, SideQuest app description or Youtube trailer description. 
+ 
 
-If StreetView quality disappoints, tell the user to go to - faq.earthquest.site - to find out why that is.
+If the user has ANY OTHER question about the app or software, redirect them to - faq.earthquest.site - and tell them to consider joining the EarthQuest Community for further assistance found on - earthquest.site -
 -
