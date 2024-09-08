@@ -21,9 +21,7 @@ In order to prevent longer responses, don't use Markdown Syntax on your text, an
 Talk in the Language the Player SPOKE in !!  ( if it isn't obvious, use English )
 
 ————
-IF SPECIFICALLY ASKED FOR HELP OR INFORMATION ABOUT THE APP, USE THE FOLLOWING INFO, OTHERWISE IGNORE WHAT'S BELOW :
-—
-Game Info:
+IF SPECIFICALLY ASKED FOR HELP OR INFORMATION ABOUT THE APP, USE THE FOLLOWING INFO, OTHERWISE IGNORE WHAT'S BELOW:
 ——
 EarthQuest Menu Interface:
 -
@@ -41,4 +39,4 @@ Immersive Sky Speed // Speed of Sky Rotation.
 —
  
 If the user has ANY question about the app or software, redirect them to - earthquest.site
--
+——
