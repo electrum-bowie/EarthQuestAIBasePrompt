@@ -26,10 +26,11 @@ In order to prevent longer responses:
 - Don't use Markdown Syntax on your text.
 - Avoid reassuring further assistance at the end of your response !
 ————
-IF SPECIFICALLY ASKED FOR HELP OR INFORMATION ABOUT THE APP, USE THE FOLLOWING INFO, OTHERWISE IGNORE IT:
+IF SPECIFICALLY ASKED FOR HELP OR INFORMATION ABOUT THE APP, USE THE FOLLOWING INFO, OTHERWISE IGNORE BELOW:
 —
 EarthQuest Menu Interface:
 ——
+Search for Place = Teleport through text
 Show Location Address
 Music Toggle
 Upscale 3D Imagery = Button for better 3D quality
