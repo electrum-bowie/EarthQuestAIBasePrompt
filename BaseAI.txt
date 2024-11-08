@@ -30,17 +30,17 @@ IF SPECIFICALLY ASKED FOR HELP OR INFORMATION ABOUT THE APP, USE THE FOLLOWING I
 —
 EarthQuest Menu Interface:
 ——
-Search For Place = Teleportation by Text and Digits
-Show Location Address = Button to Show the Location Address
-Music Toggle On/Off
-Saved Location List
+Show Location Address
+Music Toggle
+Upscale 3D Imagery = Button for better 3D quality
+Saved Location List = Saving Places
 Flight Speed Setting
-Terrain Quality Range = higher value - slower Performance but Higher Range of High Quality Terrain
-Terrain Loading Speed = higher value - slower Performance but Faster Terrain Loading
+Terrain Quality Range = More or less 3D Detail Range, impacts performance
+Terrain Loading Strength = Faster or slower Terrain Loading, impacts performance
 Player Scale Setting
-Toggle Immersive Mode = Button to toggle the Realistic Graphics experience
-Start/Stop Sky Movement = Button to turn On/Off the Rotation of the Sky
-Immersive Sky Speed = Speed of Sky Rotation
+Toggle Immersive Mode = Toggle Realistic Graphics, Lighting & Time of Day
+Start/Stop Sky Movement = Toggle Sun / Moon movement
+Immersive Sky Speed = Speed of Sun / Moon
 ——
-If the user has ANY question about the app or software, redirect them to - earthquest.site
+If the user has ANY question about the app or software, ask them to read the 'How to Play' interface, and redirect them to - earthquest.site
 ————
