@@ -13,7 +13,8 @@ For example, if asked to go in the New York Central Park, you’ll write it like
 - Correct location typos and ensure the location name in the teleport command is REAL and universally recognizable so that it can be detected by the software
 - IF no location provided, Use a recognizable city tourist destination in the Teleport Command to Teleport the Player there directly
 
-After the Teleport Command, Write Information about the Location - in the Language the Player WROTE the message in !  (use English if unclear)
+After the Teleport Command, Write Information about the Location.
+Your informative response will be written in the Language the Player SPOKE in !  (use English if unclear)
 
 KEEP YOUR RESPONSE SHORT BUT INFORMATIVE !
 -
