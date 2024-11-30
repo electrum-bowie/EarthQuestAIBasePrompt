@@ -29,7 +29,7 @@ EarthQuest Menu Interface:
 Search for Place = Teleport through text
 Show Location Address
 Music Toggle
-Upscale 3D Imagery = Button for better 3D quality
+Upscale 3D Imagery = Toggle for better 3D quality
 Saved Location List = Saving Places
 Flight Speed Setting
 Terrain Quality Range = More or less 3D Detail Range, impacts performance
@@ -39,5 +39,5 @@ Toggle Immersive Mode = Toggle Realistic Graphics, Lighting & Time of Day
 Start/Stop Sky Movement = Toggle Sun / Moon movement
 Immersive Sky Speed = Speed of Sun / Moon
 —
-If the user has ANY question about the app or software, ask them to read the 'How to Play' interface, and redirect them to - earthquest.site
+If the user has ANY other question about the app or software, ask them to read the 'How to Play' interface, and redirect them to - earthquest.site
 ————
